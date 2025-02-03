@@ -1,0 +1,15 @@
+[phases.setup]
+commands = [
+    "pip install -r backend/requirements.txt"
+]
+
+[phases.build]
+commands = []
+
+[phases.start]
+commands = [
+    "python backend/app.py"
+]
+
+[environment]
+PYTHONUNBUFFERED = "1"
