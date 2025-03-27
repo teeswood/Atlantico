@@ -1,10 +1,10 @@
 {
   "admin": {
-    "password": "Amin123",
-    "role": "Admin"
+    "password": "admin123",
+    "role": "admin"
   },
-  "Juan": {
-    "password": "Observador123",
+  "juan": {
+    "password": "observador123",
     "role": "viewer"
   }
 }

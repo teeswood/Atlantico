@@ -10,7 +10,13 @@
     <p id="welcomeMsg"></p>
     <button onclick="logout()">Cerrar sesión</button>
 
-    <h3>Stock disponible</h3>
+    <div style="margin-top: 20px;">
+        <button id="verReal">📦 Stock Real</button>
+        <button id="verTeorico">📄 Stock Teórico</button>
+        <button id="verDiferencias">📉 Ver Diferencias</button>
+    </div>
+
+    <h3>Resultado</h3>
     <table id="stockTable" border="1">
         <thead>
             <tr><th>Código</th><th>Descripción</th><th>Cantidad</th><th>Ubicación</th></tr>
@@ -18,7 +24,7 @@
         <tbody></tbody>
     </table>
 
-    <div id="entregaSection" style="display:none;">
+    <div id="entregaSection" style="display:none; margin-top: 30px;">
         <h3>Registrar entrega</h3>
         <form id="entregaForm">
             <input type="text" id="codigo" placeholder="Código del material" required><br>
