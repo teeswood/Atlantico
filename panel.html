@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Panel - Logística FV</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h2>Panel de Control</h2>
+    <p id="welcomeMsg"></p>
+    <button onclick="logout()">Cerrar sesión</button>
+
+    <h3>Stock disponible</h3>
+    <table id="stockTable" border="1">
+        <thead>
+            <tr><th>Código</th><th>Descripción</th><th>Cantidad</th><th>Ubicación</th></tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <div id="entregaSection" style="display:none;">
+        <h3>Registrar entrega</h3>
+        <form id="entregaForm">
+            <input type="text" id="codigo" placeholder="Código del material" required><br>
+            <input type="number" id="cantidad" placeholder="Cantidad a entregar" required><br>
+            <input type="text" id="subcontrata" placeholder="Subcontratista" required><br>
+            <button type="submit">Registrar</button>
+        </form>
+        <p id="entregaMsg"></p>
+    </div>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
