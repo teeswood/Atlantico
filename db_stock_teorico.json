@@ -1,0 +1,1106 @@
+{
+    "QA027541": {
+        "descripcion": "Motor post W8x21 L=4525 mm",
+        "familia": "POSTS",
+        "cantidad_teorica": 788.0,
+        "cantidad_total": 784.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027542": {
+        "descripcion": "Standard post W8x13 L=4965 mm",
+        "familia": "POSTS",
+        "cantidad_teorica": 995.0,
+        "cantidad_total": 990.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027543": {
+        "descripcion": "Motor post W8x18 L=4565 mm",
+        "familia": "POSTS",
+        "cantidad_teorica": 484.0,
+        "cantidad_total": 480.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027544": {
+        "descripcion": "Standard post W8x13 L=4565 mm",
+        "familia": "POSTS",
+        "cantidad_teorica": 2581.0,
+        "cantidad_total": 2568.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027545": {
+        "descripcion": "Motor post W8x18 L=4965 mm",
+        "familia": "POSTS",
+        "cantidad_teorica": 2007.0,
+        "cantidad_total": 1995.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027546": {
+        "descripcion": "Standard post W8x18 L=4965 mm",
+        "familia": "POSTS",
+        "cantidad_teorica": 2676.0,
+        "cantidad_total": 2660.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027547": {
+        "descripcion": "Motor post W8x15 L=4565 mm",
+        "familia": "POSTS",
+        "cantidad_teorica": 1482.0,
+        "cantidad_total": 1476.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027548": {
+        "descripcion": "Motor post W8x21 L=4125 mm",
+        "familia": "POSTS",
+        "cantidad_teorica": 52.0,
+        "cantidad_total": 52.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027549": {
+        "descripcion": "Standard post W8x13 L=4165 mm",
+        "familia": "POSTS",
+        "cantidad_teorica": 155.0,
+        "cantidad_total": 155.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027550": {
+        "descripcion": "Motor post W8x18 L=4165 mm",
+        "familia": "POSTS",
+        "cantidad_teorica": 430.0,
+        "cantidad_total": 430.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027568": {
+        "descripcion": "Standard post W8x18 L=4165 mm",
+        "familia": "POSTS",
+        "cantidad_teorica": 520.0,
+        "cantidad_total": 520.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027569": {
+        "descripcion": "Motor post W8x15 L=4165 mm",
+        "familia": "POSTS",
+        "cantidad_teorica": 30.0,
+        "cantidad_total": 30.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027570": {
+        "descripcion": "Motor post W8x18 L=4365 mm",
+        "familia": "POSTS",
+        "cantidad_teorica": 0.0,
+        "cantidad_total": 0.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027571": {
+        "descripcion": "Standard post W8x18 L=4365 mm",
+        "familia": "POSTS",
+        "cantidad_teorica": 0.0,
+        "cantidad_total": 0.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027572": {
+        "descripcion": "Motor post W8x18 L=4665 mm",
+        "familia": "POSTS",
+        "cantidad_teorica": 8.0,
+        "cantidad_total": 8.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027573": {
+        "descripcion": "Standard post W8x13 L=4865 mm",
+        "familia": "POSTS",
+        "cantidad_teorica": 10.0,
+        "cantidad_total": 10.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027574": {
+        "descripcion": "Motor post W8x21 L=4625 mm",
+        "familia": "POSTS",
+        "cantidad_teorica": 8.0,
+        "cantidad_total": 8.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027575": {
+        "descripcion": "Motor post W8x15 L=4765 mm",
+        "familia": "POSTS",
+        "cantidad_teorica": 30.0,
+        "cantidad_total": 30.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027576": {
+        "descripcion": "Standard post W8x13 L=4765 mm",
+        "familia": "POSTS",
+        "cantidad_teorica": 40.0,
+        "cantidad_total": 40.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027577": {
+        "descripcion": "Motor post W8x21 L=4925 mm",
+        "familia": "POSTS",
+        "cantidad_teorica": 0.0,
+        "cantidad_total": 0.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA004853": {
+        "descripcion": "Motor Post Bearing Support (W8x21)",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 1696.0,
+        "cantidad_total": 1688.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001606": {
+        "descripcion": "Hex. Bolt M16x65 8.8 DIN933",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 21276.0,
+        "cantidad_total": 21172.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001615": {
+        "descripcion": "Flat Washer M16 Steel DIN7349",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 21276.0,
+        "cantidad_total": 21172.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001567": {
+        "descripcion": "Hex. Nut Serrated M16 C8 DIN6923",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 21276.0,
+        "cantidad_total": 21172.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA004703": {
+        "descripcion": "Bearing support",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 26288.0,
+        "cantidad_total": 26160.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001605": {
+        "descripcion": "Hex. Bolt M16x45 8.8 DIN933",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 100021.0,
+        "cantidad_total": 97888.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001575": {
+        "descripcion": "Hex. Lock Nut M16 C8 DIN985",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 54229.0,
+        "cantidad_total": 52320.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA003445": {
+        "descripcion": "Housing",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 26288.0,
+        "cantidad_total": 26160.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001601": {
+        "descripcion": "Hex. Bolt M12x35 8.8 DIN933",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 36610.0,
+        "cantidad_total": 36430.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001542": {
+        "descripcion": "Flat Washer M12 Steel DIN125",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 36610.0,
+        "cantidad_total": 36430.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001565": {
+        "descripcion": "Hex. Nut Serrated M12 C8 DIN6923",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 36610.0,
+        "cantidad_total": 36430.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA004704": {
+        "descripcion": "Half sphere plastic bearing",
+        "familia": "BEARINGS",
+        "cantidad_teorica": 26288.0,
+        "cantidad_total": 26160.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA004473": {
+        "descripcion": "Bonding strap (2x\u00d88,5)",
+        "familia": "ACCESORIES",
+        "cantidad_teorica": 6977.0,
+        "cantidad_total": 6943.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001597": {
+        "descripcion": "Bolt M6.3x25 Steel DIN7504k",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 15607.0,
+        "cantidad_total": 13886.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "nan": {
+        "descripcion": "VARIOUS",
+        "familia": NaN,
+        "cantidad_teorica": NaN,
+        "cantidad_total": NaN,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027581": {
+        "descripcion": "Torque Tube 1 #170.4 L=7767 mm",
+        "familia": "TUBES",
+        "cantidad_teorica": 424.0,
+        "cantidad_total": 422.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027582": {
+        "descripcion": "Torque Tube 2 #170.4 L=10200 mm",
+        "familia": "TUBES",
+        "cantidad_teorica": 424.0,
+        "cantidad_total": 422.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027583": {
+        "descripcion": "Torque Tube 3 #170.4 L=5483 mm",
+        "familia": "TUBES",
+        "cantidad_teorica": 424.0,
+        "cantidad_total": 422.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027584": {
+        "descripcion": "Torque Tube 4 #170.4 L=10400 mm",
+        "familia": "TUBES",
+        "cantidad_teorica": 212.0,
+        "cantidad_total": 211.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027585": {
+        "descripcion": "Torque Tube 5 #170.4 L=4783 mm",
+        "familia": "TUBES",
+        "cantidad_teorica": 212.0,
+        "cantidad_total": 211.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027552": {
+        "descripcion": "Torque Tube 1 #170.3,5 L=7706 mm",
+        "familia": "TUBES",
+        "cantidad_teorica": 133.0,
+        "cantidad_total": 132.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027553": {
+        "descripcion": "Torque Tube 2 #170.3,5 L=10293 mm",
+        "familia": "TUBES",
+        "cantidad_teorica": 266.0,
+        "cantidad_total": 264.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027554": {
+        "descripcion": "Torque Tube 3 #170.3,5 L=5422 mm",
+        "familia": "TUBES",
+        "cantidad_teorica": 266.0,
+        "cantidad_total": 264.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027555": {
+        "descripcion": "Torque Tube 4 #170.3,5 L=10493 mm",
+        "familia": "TUBES",
+        "cantidad_teorica": 133.0,
+        "cantidad_total": 132.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027556": {
+        "descripcion": "Torque Tube 5 #170.3,5 L=4722 mm",
+        "familia": "TUBES",
+        "cantidad_teorica": 133.0,
+        "cantidad_total": 132.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027557": {
+        "descripcion": "Torque Tube 6 #170.3,5 L=7861 mm",
+        "familia": "TUBES",
+        "cantidad_teorica": 133.0,
+        "cantidad_total": 132.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027558": {
+        "descripcion": "Torque Tube 7 #170.3,5 L=10808 mm",
+        "familia": "TUBES",
+        "cantidad_teorica": 1313.0,
+        "cantidad_total": 1307.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027559": {
+        "descripcion": "Torque Tube 8 #170.3,5 L=11785 mm",
+        "familia": "TUBES",
+        "cantidad_teorica": 1313.0,
+        "cantidad_total": 1307.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027560": {
+        "descripcion": "Torque Tube 9 #170.3,5 L=8830 mm",
+        "familia": "TUBES",
+        "cantidad_teorica": 1313.0,
+        "cantidad_total": 1307.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027561": {
+        "descripcion": "Torque Tube 10 #170.3,5 L=8130 mm",
+        "familia": "TUBES",
+        "cantidad_teorica": 1313.0,
+        "cantidad_total": 1307.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027562": {
+        "descripcion": "Torque Tube 11 #170.3,5 L=11785 mm",
+        "familia": "TUBES",
+        "cantidad_teorica": 1313.0,
+        "cantidad_total": 1307.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027563": {
+        "descripcion": "Torque Tube 12 #170.3,5 L=10958 mm",
+        "familia": "TUBES",
+        "cantidad_teorica": 1313.0,
+        "cantidad_total": 1307.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA020111": {
+        "descripcion": "Square profile metalic end cup 170mm",
+        "familia": "ACCESORIES",
+        "cantidad_teorica": 3316.0,
+        "cantidad_total": 3300.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027578": {
+        "descripcion": "Omega Purlin 30.80.30 e= 2 mm",
+        "familia": "PURLINS",
+        "cantidad_teorica": 11236.0,
+        "cantidad_total": 11183.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027579": {
+        "descripcion": "Omega Purlin 30.80.30 e= 1,5 mm",
+        "familia": "PURLINS",
+        "cantidad_teorica": 76638.0,
+        "cantidad_total": 76267.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027580": {
+        "descripcion": "C Purlin 30.80.35 e= 2 mm",
+        "familia": "PURLINS",
+        "cantidad_teorica": 3316.0,
+        "cantidad_total": 3300.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA004708": {
+        "descripcion": "Inner Purlin Reinforcement",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 182380.0,
+        "cantidad_total": 181500.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA017050": {
+        "descripcion": "Bottom Purlin Closure (thick.=4mm)",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 11660.0,
+        "cantidad_total": 11605.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA004709": {
+        "descripcion": "Bottom Purlin Closure (thick.=3mm)",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 79530.0,
+        "cantidad_total": 79145.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001595": {
+        "descripcion": "Hex. Bolt M10x200 8.8 DIN931",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 13954.0,
+        "cantidad_total": 13886.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001541": {
+        "descripcion": "Flat Washer M10 Steel DIN125",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 920.0,
+        "cantidad_total": 920.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001577": {
+        "descripcion": "Hex. Lock Nut M10 C8 DIN980V",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 13954.0,
+        "cantidad_total": 13886.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027564": {
+        "descripcion": "Bolt pin+collar  1/4\" Large Head Lockbolt",
+        "familia": "MODULE FIX.",
+        "cantidad_teorica": 724523.0,
+        "cantidad_total": 712800.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA019336": {
+        "descripcion": "Multimotor Master Controller, Lora antenna, motor cable",
+        "familia": "ELECTR. BOX",
+        "cantidad_teorica": 1658.0,
+        "cantidad_total": 1650.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA015072": {
+        "descripcion": "Multimotor Slave Controller, motor cable, 2x support sheet",
+        "familia": "ELECTR. BOX",
+        "cantidad_teorica": 3661.0,
+        "cantidad_total": 3643.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA005654": {
+        "descripcion": "U-Bolt M8 #170",
+        "familia": "U-BOLTS",
+        "cantidad_teorica": 10638.0,
+        "cantidad_total": 10586.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001540": {
+        "descripcion": "Flat Washer M8 Steel DIN125",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 1658.0,
+        "cantidad_total": 1650.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001573": {
+        "descripcion": "Hex. Lock Nut M8 C8 DIN985",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 22929.0,
+        "cantidad_total": 21172.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA018456": {
+        "descripcion": "Communication & power supply wire (21m) with 2 connectors",
+        "familia": "ELECTR. BOX",
+        "cantidad_teorica": 1035.0,
+        "cantidad_total": 1029.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA017426": {
+        "descripcion": "Communication & power supply wire (24m) with 2 connectors",
+        "familia": "ELECTR. BOX",
+        "cantidad_teorica": 2626.0,
+        "cantidad_total": 2614.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA004599": {
+        "descripcion": "PV string fuse connection terminal (with fuse)",
+        "familia": "ELECTR. BOX",
+        "cantidad_teorica": 1791.0,
+        "cantidad_total": 1782.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA006922": {
+        "descripcion": "DC Cable (with terminals) Length = 8 meters",
+        "familia": "ELECTR. BOX",
+        "cantidad_teorica": 690.0,
+        "cantidad_total": 686.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA007354": {
+        "descripcion": "DC cable (with terminals). Length = 16 meters",
+        "familia": "ELECTR. BOX",
+        "cantidad_teorica": 2626.0,
+        "cantidad_total": 2614.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA015003": {
+        "descripcion": "LORA support",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 1658.0,
+        "cantidad_total": 1650.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA007141": {
+        "descripcion": "LORA support flange",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 1658.0,
+        "cantidad_total": 1650.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA015004": {
+        "descripcion": "LORA Support Closer",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 3316.0,
+        "cantidad_total": 3300.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001593": {
+        "descripcion": "Hex. Bolt M10x40 8.8 DIN933",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 160.0,
+        "cantidad_total": 160.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001564": {
+        "descripcion": "Hex. Nut Serrated M10 C8 DIN6923",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 4969.0,
+        "cantidad_total": 3300.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001598": {
+        "descripcion": "Hex. Bolt M8x20 8.8 DIN933",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 3311.0,
+        "cantidad_total": 1650.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001563": {
+        "descripcion": "Hex. Nut Serrated M8 C8 DIN6923",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 3311.0,
+        "cantidad_total": 1650.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA004701": {
+        "descripcion": "Square profile joining clamp e=6 mm",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 7322.0,
+        "cantidad_total": 7286.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA018479": {
+        "descripcion": "Outer lever",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 848.0,
+        "cantidad_total": 844.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA004712": {
+        "descripcion": "Outer Lever Joint",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 848.0,
+        "cantidad_total": 844.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA006813": {
+        "descripcion": "Border / inner lever",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 4471.0,
+        "cantidad_total": 4449.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA017053": {
+        "descripcion": "Inner Lever Joint",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 4471.0,
+        "cantidad_total": 4449.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027435": {
+        "descripcion": "Additional support",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 3939.0,
+        "cantidad_total": 3921.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA011597": {
+        "descripcion": "Lever Reinforcement",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 17884.0,
+        "cantidad_total": 17796.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001602": {
+        "descripcion": "Hex. Bolt M14x35 8.8 DIN933",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 10331.0,
+        "cantidad_total": 8898.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001543": {
+        "descripcion": "Flat Washer M14 Steel DIN125",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 3392.0,
+        "cantidad_total": 3376.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001574": {
+        "descripcion": "Hex. Lock Nut M14 C8 DIN985",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 1696.0,
+        "cantidad_total": 1688.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001604": {
+        "descripcion": "Hex. Bolt M14x220 8.8 DIN931",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 76119.0,
+        "cantidad_total": 74102.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA021087": {
+        "descripcion": "Profile block plate",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 3392.0,
+        "cantidad_total": 3376.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001603": {
+        "descripcion": "Hex. Bolt M14x40 8.8 DIN933",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 1959.0,
+        "cantidad_total": 1688.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA009081": {
+        "descripcion": "Actuator bushing \u00d831mm",
+        "familia": "PIN BOLTS & BUSH.",
+        "cantidad_teorica": 848.0,
+        "cantidad_total": 844.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA021925": {
+        "descripcion": "Actuator bushing \u00d826mm",
+        "familia": "PIN BOLTS & BUSH.",
+        "cantidad_teorica": 4471.0,
+        "cantidad_total": 4449.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA014953": {
+        "descripcion": "Block Profile #170",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 13954.0,
+        "cantidad_total": 13886.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA004479": {
+        "descripcion": "Conversor de USB a RS232",
+        "familia": "ELECTR. BOX",
+        "cantidad_teorica": 1.0,
+        "cantidad_total": 1.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA004475": {
+        "descripcion": "TCU Debugginng wiring (4 meters)",
+        "familia": "ELECTR. BOX",
+        "cantidad_teorica": 1.0,
+        "cantidad_total": 1.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA004474": {
+        "descripcion": "TCU Adapter",
+        "familia": "ELECTR. BOX",
+        "cantidad_teorica": 1.0,
+        "cantidad_total": 1.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA006924": {
+        "descripcion": "TCU Debugging wiring (18 cm) - TCU debugging terminal wiring harness",
+        "familia": "ELECTR. BOX",
+        "cantidad_teorica": 1.0,
+        "cantidad_total": 1.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA006925": {
+        "descripcion": "Stlink simulator",
+        "familia": "ELECTR. BOX",
+        "cantidad_teorica": 1.0,
+        "cantidad_total": 1.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA006926": {
+        "descripcion": "Flat cable",
+        "familia": "ELECTR. BOX",
+        "cantidad_teorica": 1.0,
+        "cantidad_total": 1.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA006927": {
+        "descripcion": "NCU connection cables",
+        "familia": "ELECTR. BOX",
+        "cantidad_teorica": 1.0,
+        "cantidad_total": 1.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA008501": {
+        "descripcion": "Powernice PA30 Linear Actuator",
+        "familia": "MOTOR",
+        "cantidad_teorica": 848.0,
+        "cantidad_total": 844.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027882": {
+        "descripcion": "Powernice PA31 Linear Actuator",
+        "familia": "MOTOR",
+        "cantidad_teorica": 4471.0,
+        "cantidad_total": 4449.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA017054": {
+        "descripcion": "Lineal Act.Support (Outer)",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 848.0,
+        "cantidad_total": 844.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA004935": {
+        "descripcion": "Lineal Act.Support (Inner)",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 4471.0,
+        "cantidad_total": 4449.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA007301": {
+        "descripcion": "Rear reinforcement plate",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 10638.0,
+        "cantidad_total": 10586.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA004718": {
+        "descripcion": "Bul\u00f3n \u00d830x125 (Exterior)",
+        "familia": "PIN BOLTS & BUSH.",
+        "cantidad_teorica": 1696.0,
+        "cantidad_total": 1688.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA004856": {
+        "descripcion": "Bul\u00f3n \u00d825x125 (Interior)",
+        "familia": "PIN BOLTS & BUSH.",
+        "cantidad_teorica": 8942.0,
+        "cantidad_total": 8898.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA000326": {
+        "descripcion": "Pin lever ISO 1234 8x45",
+        "familia": "PIN BOLTS & BUSH.",
+        "cantidad_teorica": 12291.0,
+        "cantidad_total": 10586.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA004857": {
+        "descripcion": "Actuator bushing \u00d852x\u00d826x6mm",
+        "familia": "PIN BOLTS & BUSH.",
+        "cantidad_teorica": 17884.0,
+        "cantidad_total": 17796.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA004719": {
+        "descripcion": "Actuator bushing \u00d867x\u00d831x10mm",
+        "familia": "PIN BOLTS & BUSH.",
+        "cantidad_teorica": 1696.0,
+        "cantidad_total": 1688.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA027565": {
+        "descripcion": "Lower support anemometer (6 meters)",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 20.0,
+        "cantidad_total": 20.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001533": {
+        "descripcion": "Wide Flat Washer M16 Steel DIN9021",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 320.0,
+        "cantidad_total": 320.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001524": {
+        "descripcion": "Hex. Nut M16 C8 DIN934",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 480.0,
+        "cantidad_total": 480.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA004824": {
+        "descripcion": "Upper support anemometer (4 meters)",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 20.0,
+        "cantidad_total": 20.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001592": {
+        "descripcion": "Hex. Bolt M10x30 8.8 DIN933",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 260.0,
+        "cantidad_total": 260.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001520": {
+        "descripcion": "Hex. Lock Nut M10 C8 DIN985",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 460.0,
+        "cantidad_total": 460.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA005121": {
+        "descripcion": "FA13 anemometer suppport",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 20.0,
+        "cantidad_total": 20.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA004933": {
+        "descripcion": "Anem\u00f3metro FA13 + Cable 12,5 metros",
+        "familia": "ELECTR. BOX",
+        "cantidad_teorica": 20.0,
+        "cantidad_total": 20.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA000782": {
+        "descripcion": "Hex. Bolt M6x20 8.8 DIN933",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 60.0,
+        "cantidad_total": 60.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA015073": {
+        "descripcion": "NCU TRINA (Vanguard G2)",
+        "familia": "ELECTR. BOX",
+        "cantidad_teorica": 20.0,
+        "cantidad_total": 20.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA004470": {
+        "descripcion": "NCU support",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 40.0,
+        "cantidad_total": 40.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA004471": {
+        "descripcion": "LORA support",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 20.0,
+        "cantidad_total": 20.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA004472": {
+        "descripcion": "LORA support flange",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 20.0,
+        "cantidad_total": 20.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001594": {
+        "descripcion": "Hex. Bolt M10x180 8.8 DIN931",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 40.0,
+        "cantidad_total": 40.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "EA001608": {
+        "descripcion": "Allen Bolt M4x30 Steel DIN7991",
+        "familia": "FASTENERS",
+        "cantidad_teorica": 80.0,
+        "cantidad_total": 80.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA010499": {
+        "descripcion": "Snow sensor support",
+        "familia": "MECH. PARTS",
+        "cantidad_teorica": 10.0,
+        "cantidad_total": 10.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA022233": {
+        "descripcion": "Snow sensor (DONGGUAN)",
+        "familia": "ELECTR. BOX",
+        "cantidad_teorica": 10.0,
+        "cantidad_total": 10.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "9A001628": {
+        "descripcion": "Tower server _ dell _PowerEdge T350 (keyboard _ mouse)",
+        "familia": "ELECTR. BOX",
+        "cantidad_teorica": 1.0,
+        "cantidad_total": 1.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "CA003260": {
+        "descripcion": "Cable internet",
+        "familia": "ELECTR. BOX",
+        "cantidad_teorica": 23.0,
+        "cantidad_total": 23.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA004485": {
+        "descripcion": "Brida a T120M Ref.111-12660 ",
+        "familia": "ACCESORIES",
+        "cantidad_teorica": 24750.0,
+        "cantidad_total": 24750.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA004484": {
+        "descripcion": "Wire clip (208738001) Thickness: 1,5 to 4mm",
+        "familia": "ACCESORIES",
+        "cantidad_teorica": 36300.0,
+        "cantidad_total": 36300.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA004496": {
+        "descripcion": "Cable Tie Ref.: 056476001",
+        "familia": "ACCESORIES",
+        "cantidad_teorica": 36300.0,
+        "cantidad_total": 36300.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA004328": {
+        "descripcion": "BRIDA-NYLON-PA6.6-UV-NEGRA-7,2X750 (W\u00fcrth)",
+        "familia": "ACCESORIES",
+        "cantidad_teorica": 41658.0,
+        "cantidad_total": 41658.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA017055": {
+        "descripcion": "Wire protection tube - N\u00ba077199032 - \u00d8ext. 38,4 / \u00d8int. 32,5 (W\u00fcrth) - L=1m",
+        "familia": "ACCESORIES",
+        "cantidad_teorica": 7286.0,
+        "cantidad_total": 7286.0,
+        "ubicacion": "Por definir",
+        "entregas": []
+    },
+    "QA021791": {
+        "descripcion": "Actuator extender tool",
+        "familia": "ACCESORIES",
+        "cantidad_teorica": 18.294734769999998,
+        "cantidad_total": 18.294734769999998,
+        "ubicacion": "Por definir",
+        "entregas": []
+    }
+}
